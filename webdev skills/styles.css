@@ -1,0 +1,101 @@
+p,h1 {
+    font-family: 'Baumans', cursive;
+    letter-spacing: 1px;
+    text-shadow: 2px ;
+}
+
+/*page styles */
+
+html {
+    background-image: url("images/381610.jpg");
+    background-size: cover;
+}
+
+h2,h3 {
+    font-family: 'Baloo Chettan', cursive;
+    letter-spacing: 0.5px;
+}
+
+
+div{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius:25px;
+    box-shadow: 2px 2px black;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px 100px;
+    background-color: white;
+}
+
+.html2{
+    border: 2px solid #E44D26;
+    border-radius:25px;
+    box-shadow: 2px 2px black;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px 100px;
+    background-color: white;
+}
+
+.css2{
+    border: 2px solid rgb(1, 112, 186);
+    border-radius:25px;
+    box-shadow: 2px 2px black;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px 100px;
+    background-color: white;
+}
+
+.js2{
+    border: 2px solid rgb(218, 194, 19);
+    border-radius:25px;
+    box-shadow: 2px 2px black;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px 100px;
+    background-color: white;
+}
+
+
+h2 {
+    font-variant: small-caps;
+}
+
+ul {
+    font-family: "Arial Black", Gadget, sans-serif
+    
+}
+/* Tutorial Notes */
+.tutorial {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+/* Section Headers */
+.html {
+    color: #E44D26
+}
+
+.css {
+    color:rgb(1, 112, 186);
+}
+
+.js {
+    color:rgb(218, 194, 19)
+}
+
+a {
+    color: #0000cc;
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
